@@ -1,0 +1,13 @@
+* {
+    color: red;
+
+    @media only screen and (min-width: 1000px) {
+        color: green;
+    }
+}
+
+p {
+    @media only screen and (min-width: 1000px) {
+        color: blue;
+    }
+}
